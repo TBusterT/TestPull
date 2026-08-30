@@ -10,5 +10,4 @@ jobs:
         uses: actions/checkout@v4
       - name: Say Hello
         run: echo "Hello, GitHub Actions!"
-      - name: Break the workflow
-        run: exit 1
+
